@@ -8,5 +8,8 @@ regardless of wether you are installing on vs code or kali terminal install the 
 pip install PyQt6   
 pip install PyQt5
 pip install scrapy
-```bash
-bb
+
+```
+
+bbb
+
