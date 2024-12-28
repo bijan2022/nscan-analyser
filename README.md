@@ -31,4 +31,6 @@ cd Network_scaner
 sudo python3 dashboard.py
 ```
 you can save the results into a file by choosing the save results option.
+# video guide
+https://github.com/user-attachments/assets/7b1daf49-e162-424a-a9a6-10dfa5b2af86
 
