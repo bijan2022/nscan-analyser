@@ -1,6 +1,6 @@
 # nscan-analyser
 
-**EndEncrypt** is a tool designed for the analysis of IPs and their hosts.
+**nscan-analyser** is a tool designed for the analysis of IPs and their hosts.
 
 ## Installation
 regardless of wether you are installing on vs code or kali terminal install the following.
