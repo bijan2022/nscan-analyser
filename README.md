@@ -18,5 +18,17 @@ if installed on vs code
 # this code will activate the scanning system afterwards simply put your own or other ip for scanning.
 python3 dashboard.py
 ```
-you can save the results afterwards as shown in the video guide.
+if installed on kali terminal
+```bash
+# go Downloads or Desktop or any other other extraction area.
+cd Downloads
+# to find the zip file
+ls
+# to extract the file
+unzip Network_scaner.zip
+cd Network_scaner
+# run the project.
+sudo python3 dashboard.py
+```
+you can save the results into a file by choosing the save results option.
 
