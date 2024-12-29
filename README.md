@@ -20,6 +20,8 @@ python3 dashboard.py
 ```
 if installed on kali terminal
 ```bash
+# to install from github
+git clone https://github.com/bijan2022/nscan-analyser
 # go Downloads or Desktop or any other other extraction area.
 cd Downloads
 # to find the zip file
